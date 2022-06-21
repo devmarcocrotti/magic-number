@@ -1,4 +1,4 @@
-# 🎲 magic-number
+# 🪄🎲 magic-number
 Symfony Command Example
 ## Steps to create the project from scratch
 - symfony new --webapp {{nome_progetto}}
