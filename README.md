@@ -1,2 +1,2 @@
-# magin-number
+# magic-number
 Symfony Command Example
